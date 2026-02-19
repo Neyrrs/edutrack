@@ -15,8 +15,9 @@
     </head>
     <body>
         <x-navbar />
-        <main class="py-12">
+        <main class="py-12 md:px-18">
             @yield('content')
         </main>
     </body>
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
 </html>

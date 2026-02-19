@@ -10,3 +10,7 @@
 1. learn how auth in laravel works
 2. creating dashboard ui including table form and edit delete views
 3. creating login and register page
+
+## Hint
+1. setiap activity memiliki kategori
+2. user bisa membuat banyak activity dan memilih kategori dari activity tersebut

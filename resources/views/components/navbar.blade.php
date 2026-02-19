@@ -1,5 +1,5 @@
-<header class="md:px-15 absolute inset-x-0 top-0 z-50">
-    <nav aria-label="Global" class="flex items-center justify-between p-6 lg:px-8">
+<header class="md:px-18 absolute inset-x-0 top-0 z-50">
+    <nav aria-label="Global" class="flex items-center justify-between py-6">
     <div class="flex lg:flex-1">
         <a href="/" class='text-2xl font-bold'>Edutrack</a>
     </div>
